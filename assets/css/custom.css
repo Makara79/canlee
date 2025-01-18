@@ -1,0 +1,96 @@
+
+@font-face {
+    font-family: Battambang;
+    src: url(../fonts/Battambang/Battambang-Regular.ttf);
+  }
+@font-face {
+    font-family: Kulen;
+    src: url(../fonts/Koulen/Koulen-Regular.ttf);
+  }
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background: rgb(18, 92, 231) !important;
+}
+
+.nav-link{
+    font-family: Kulen ;
+    color: rgb(254, 254, 255) !important;
+}
+.carousel{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.body{
+  padding: 20px;
+}
+.footer {
+  text-align: center;
+  background-color: rgb(18, 92, 231);
+  color: #fff;
+  padding: 20px;
+}
+
+.footer-logo {
+  margin-bottom: 10px;
+}
+
+.logofooter {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+}
+
+.footer-content p {
+  margin: 5px 0;
+}
+
+.footer-link {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+.footer-social p {
+  margin-bottom: 5px;
+}
+.product{
+  text-align: center;
+  margin-top: 20px;
+  font-family: kulen;
+  color: blue;
+  font-size: 100%;
+}
+.about{
+  text-align: center;
+  margin-top: 20px;
+  font-family: kulen;
+  color: blue;
+  font-size: 100%;
+  
+}
+.shopshoes{
+  margin-bottom: 100px;
+  border: solid blue;
+  width: 80%;
+  border-radius: 20px;
+
+  
+  
+}
+.logoabout{
+  float: left;
+  margin-right: 50px;
+}
+
+
+
+
+
+
+
+
